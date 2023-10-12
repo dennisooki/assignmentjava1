@@ -10,8 +10,8 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/hckrio" />
+        android:layout_height="131dp"
+        app:srcCompat="@drawable/kcau" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress"
